@@ -1,0 +1,6 @@
+2025-07-17 14:37:55,138 - INFO - Starting freelance bot automation
+2025-07-17 14:37:56,126 - INFO - Navigated to LaborX
+2025-07-17 14:38:07,059 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1071279d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/08d0b5640a9cf1819570d4e4495a42b5
+2025-07-17 14:38:07,060 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x107127750>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/08d0b5640a9cf1819570d4e4495a42b5
+2025-07-17 14:38:07,060 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1070b7100>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/08d0b5640a9cf1819570d4e4495a42b5
+2025-07-17 14:38:07,061 - INFO - Browser closed
