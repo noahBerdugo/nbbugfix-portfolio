@@ -1,0 +1,2 @@
+webdriver-manager==3.*
+selenium

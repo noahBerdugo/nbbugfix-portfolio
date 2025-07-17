@@ -1,0 +1,190 @@
+2025-07-17 12:05:00,609 [INFO] Chrome WebDriver initialized successfully.
+2025-07-17 12:05:04,923 [INFO] 'NO THANKS' popup not present.
+2025-07-17 12:05:05,059 [INFO] WebDriver closed.
+2025-07-17 12:06:19,313 [INFO] Chrome WebDriver initialized successfully.
+2025-07-17 12:06:20,628 [INFO] 'NO THANKS' popup not present.
+2025-07-17 12:06:34,681 [INFO] WebDriver closed.
+2025-07-17 12:06:56,852 [INFO] Chrome WebDriver initialized successfully.
+2025-07-17 12:06:58,190 [INFO] 'NO THANKS' popup not present.
+2025-07-17 12:07:13,399 [ERROR] Login elements not found or not interactable in time.
+2025-07-17 12:07:13,484 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1037279d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/27816583255b09b38b13367ec773ddc8
+2025-07-17 12:07:13,484 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103727750>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/27816583255b09b38b13367ec773ddc8
+2025-07-17 12:07:13,485 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1036eec40>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/27816583255b09b38b13367ec773ddc8
+2025-07-17 12:07:13,485 [INFO] WebDriver closed.
+2025-07-17 12:10:14,578 [INFO] Chrome WebDriver initialized successfully.
+2025-07-17 12:10:16,083 [INFO] 'NO THANKS' popup not present.
+2025-07-17 12:10:31,131 [ERROR] Login elements not found or not interactable in time.
+2025-07-17 12:10:31,224 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103a539d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1e744a787c4e32b00ef91aff529ca335
+2025-07-17 12:10:31,224 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103a53750>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1e744a787c4e32b00ef91aff529ca335
+2025-07-17 12:10:31,225 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103a1ac40>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1e744a787c4e32b00ef91aff529ca335
+2025-07-17 12:10:31,226 [INFO] WebDriver closed.
+2025-07-17 12:11:54,754 [INFO] Chrome WebDriver initialized successfully.
+2025-07-17 12:12:11,480 [INFO] No popup appeared.
+2025-07-17 12:12:11,563 [INFO] Clicked element: //a[contains(text(), 'LOGIN')]
+2025-07-17 12:12:13,784 [INFO] Attempting to solve captcha via 2Captcha.
+2025-07-17 12:12:13,879 [INFO] WebDriver closed.
+2025-07-17 12:14:09,365 [INFO] Chrome WebDriver initialized successfully.
+2025-07-17 12:14:26,687 [WARNING] 'NO THANKS' not detected, falling back to coordinate click.
+2025-07-17 12:14:26,689 [INFO] Clicking coordinates (700, 350) after delay.
+2025-07-17 12:14:32,570 [INFO] Attempting to solve captcha via 2Captcha.
+2025-07-17 12:14:32,654 [INFO] WebDriver closed.
+2025-07-17 12:21:01,991 [INFO] Chrome WebDriver initialized successfully.
+2025-07-17 12:21:19,024 [WARNING] 'NO THANKS' not detected, falling back to coordinate click.
+2025-07-17 12:21:19,025 [INFO] Clicking coordinates (700, 350) after delay.
+2025-07-17 12:21:25,067 [INFO] Attempting to solve captcha via 2Captcha.
+2025-07-17 12:21:25,161 [INFO] WebDriver closed.
+2025-07-17 12:22:17,380 [INFO] Chrome WebDriver initialized successfully.
+2025-07-17 12:22:34,137 [WARNING] 'NO THANKS' not detected, falling back to coordinate click.
+2025-07-17 12:22:34,138 [INFO] Clicking coordinates (606, 440) after delay.
+2025-07-17 12:22:39,981 [INFO] Attempting to solve captcha via 2Captcha.
+2025-07-17 12:22:40,078 [INFO] WebDriver closed.
+2025-07-17 12:24:22,192 [INFO] Chrome WebDriver initialized successfully.
+2025-07-17 12:24:38,979 [WARNING] 'NO THANKS' not detected, falling back to coordinate click.
+2025-07-17 12:24:38,980 [INFO] Clicking coordinates (606, 440) after delay.
+2025-07-17 12:24:44,856 [INFO] Attempting to locate captcha on page.
+2025-07-17 12:24:44,865 [WARNING] No captcha iframe detected on page.
+2025-07-17 12:24:50,057 [INFO] WebDriver closed.
+2025-07-17 12:26:36,838 [INFO] Chrome WebDriver initialized successfully.
+2025-07-17 12:26:53,459 [WARNING] 'NO THANKS' not detected, falling back to coordinate click.
+2025-07-17 12:26:53,461 [INFO] Clicking coordinates (606, 440) after 7 seconds delay.
+2025-07-17 12:27:03,321 [INFO] Attempting to locate captcha on page.
+2025-07-17 12:27:03,329 [WARNING] No captcha iframe detected on page.
+2025-07-17 12:27:08,380 [INFO] Clicking coordinates (606, 440) after 4 seconds delay.
+2025-07-17 12:27:15,112 [INFO] WebDriver closed.
+2025-07-17 12:28:17,254 [WARNING] 'NO THANKS' not detected, falling back to coordinate click.
+2025-07-17 12:28:17,256 [INFO] Clicking coordinates (606, 440) after 7 seconds delay.
+2025-07-17 12:28:27,100 [INFO] Attempting to locate captcha on page.
+2025-07-17 12:28:27,110 [WARNING] No captcha iframe detected on page.
+2025-07-17 12:28:32,163 [INFO] Clicking coordinates (606, 440) after 4 seconds delay.
+2025-07-17 12:28:49,217 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:28:49,218 [INFO] Waiting 3600 seconds until next claim.
+2025-07-17 12:28:53,725 [INFO] Bot stopped by user.
+2025-07-17 12:28:53,727 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/371736228ccdd9d62429f2435561f05e
+2025-07-17 12:28:53,729 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104a46c10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/371736228ccdd9d62429f2435561f05e
+2025-07-17 12:28:53,730 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104a46ad0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/371736228ccdd9d62429f2435561f05e
+2025-07-17 12:28:53,731 [INFO] WebDriver closed.
+2025-07-17 12:30:01,192 [WARNING] 'NO THANKS' not detected, falling back to coordinate click.
+2025-07-17 12:30:01,193 [INFO] Clicking coordinates (606, 440) after 7 seconds delay.
+2025-07-17 12:30:11,035 [INFO] Attempting to locate captcha on page.
+2025-07-17 12:30:11,046 [WARNING] No captcha iframe detected on page.
+2025-07-17 12:30:16,098 [INFO] Clicking coordinates (606, 440) after 4 seconds delay.
+2025-07-17 12:30:33,124 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:30:33,125 [INFO] Retrying claim in 60 seconds.
+2025-07-17 12:31:33,240 [INFO] Claimed free Bitcoin.
+2025-07-17 12:31:33,240 [INFO] Waiting 3600 seconds until next claim.
+2025-07-17 12:32:55,748 [INFO] Bot stopped by user.
+2025-07-17 12:32:55,766 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102baa3c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/4f7aff43fd121beca6a5ccb8bde7fbfa
+2025-07-17 12:32:55,770 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102b16c10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/4f7aff43fd121beca6a5ccb8bde7fbfa
+2025-07-17 12:32:55,771 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102b16ad0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/4f7aff43fd121beca6a5ccb8bde7fbfa
+2025-07-17 12:32:55,773 [INFO] WebDriver closed.
+2025-07-17 12:33:29,154 [WARNING] 'NO THANKS' not detected, falling back to coordinate click.
+2025-07-17 12:33:29,157 [INFO] Clicking coordinates (606, 440) after 7 seconds delay.
+2025-07-17 12:33:39,925 [INFO] Attempting to locate captcha on page.
+2025-07-17 12:33:39,934 [WARNING] No captcha iframe detected on page.
+2025-07-17 12:33:44,993 [INFO] Clicking coordinates (606, 440) after 4 seconds delay.
+2025-07-17 12:34:01,975 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:34:01,976 [INFO] Retrying claim in 60 seconds.
+2025-07-17 12:35:12,420 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:35:12,421 [INFO] Retrying claim in 60 seconds.
+2025-07-17 12:36:22,911 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:36:22,912 [INFO] Retrying claim in 60 seconds.
+2025-07-17 12:37:32,940 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:37:32,941 [INFO] Retrying claim in 60 seconds.
+2025-07-17 12:38:42,973 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:38:42,975 [INFO] Retrying claim in 60 seconds.
+2025-07-17 12:39:52,987 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:39:52,988 [INFO] Retrying claim in 60 seconds.
+2025-07-17 12:41:03,487 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:41:03,488 [INFO] Retrying claim in 60 seconds.
+2025-07-17 12:42:13,503 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:42:13,504 [INFO] Retrying claim in 60 seconds.
+2025-07-17 12:43:23,606 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:43:23,607 [INFO] Retrying claim in 60 seconds.
+2025-07-17 12:44:33,723 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:44:33,725 [INFO] Retrying claim in 60 seconds.
+2025-07-17 12:45:44,198 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:45:44,200 [INFO] Retrying claim in 60 seconds.
+2025-07-17 12:46:54,700 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:46:54,702 [INFO] Retrying claim in 60 seconds.
+2025-07-17 12:48:33,020 [WARNING] 'NO THANKS' not detected, falling back to coordinate click.
+2025-07-17 12:48:33,022 [INFO] Clicking coordinates (606, 440) after 7 seconds delay.
+2025-07-17 12:48:42,874 [INFO] Attempting to locate captcha on page.
+2025-07-17 12:48:42,890 [WARNING] No captcha iframe detected on page.
+2025-07-17 12:48:47,945 [INFO] Clicking coordinates (606, 440) after 4 seconds delay.
+2025-07-17 12:49:04,980 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:49:04,982 [INFO] Retrying claim in 60 seconds.
+2025-07-17 12:50:15,432 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:50:15,433 [INFO] Retrying claim in 60 seconds.
+2025-07-17 12:51:25,458 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:51:25,459 [INFO] Retrying claim in 60 seconds.
+2025-07-17 12:52:35,872 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:52:35,873 [INFO] Retrying claim in 60 seconds.
+2025-07-17 12:53:46,372 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:53:46,372 [INFO] Retrying claim in 60 seconds.
+2025-07-17 12:54:56,746 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:54:56,748 [INFO] Retrying claim in 60 seconds.
+2025-07-17 12:56:07,205 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:56:07,206 [INFO] Retrying claim in 60 seconds.
+2025-07-17 12:57:17,647 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:57:17,648 [INFO] Retrying claim in 60 seconds.
+2025-07-17 12:58:28,170 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:58:28,171 [INFO] Retrying claim in 60 seconds.
+2025-07-17 12:59:38,659 [WARNING] Roll button not found or not interactable.
+2025-07-17 12:59:38,661 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:00:49,076 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:00:49,076 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:01:59,452 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:01:59,454 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:03:09,921 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:03:09,922 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:04:20,010 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:04:20,012 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:05:30,416 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:05:30,418 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:06:40,857 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:06:40,860 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:07:51,156 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:07:51,158 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:09:05,191 [WARNING] 'NO THANKS' not detected, falling back to coordinate click.
+2025-07-17 13:09:05,193 [INFO] Clicking coordinates (606, 440) after 7 seconds delay.
+2025-07-17 13:09:15,002 [INFO] Attempting to locate captcha on page.
+2025-07-17 13:09:15,014 [WARNING] No captcha iframe detected on page.
+2025-07-17 13:09:20,069 [INFO] Clicking coordinates (606, 440) after 4 seconds delay.
+2025-07-17 13:09:37,116 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:09:37,117 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:10:47,510 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:10:47,512 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:11:57,960 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:11:57,961 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:13:08,421 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:13:08,423 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:14:18,873 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:14:18,875 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:15:29,254 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:15:29,257 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:16:39,696 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:16:39,697 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:17:50,168 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:17:50,170 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:19:00,656 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:19:00,657 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:20:11,129 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:20:11,132 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:21:21,595 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:21:21,597 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:22:31,983 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:22:31,984 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:23:42,341 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:23:42,344 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:24:52,832 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:24:52,833 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:26:03,193 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:26:03,194 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:27:13,667 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:27:13,667 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:28:24,141 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:28:24,143 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:29:34,343 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:29:34,344 [INFO] Retrying claim in 60 seconds.
+2025-07-17 13:30:44,772 [WARNING] Roll button not found or not interactable.
+2025-07-17 13:30:44,774 [INFO] Retrying claim in 60 seconds.
